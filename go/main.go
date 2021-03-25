@@ -18,8 +18,8 @@ import (
 	"time"
 )
 
-const Version = "v0.0.1"
-const ReleaseTime = "2021.3.23"
+const Version = "v0.0.2"
+const ReleaseTime = "2021.3.25"
 
 var AllowExt = sync.Map{}
 
